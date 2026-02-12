@@ -1,4 +1,4 @@
-# Session – YYYY-MM-DD
+# Session – 2026-02-12
 
 ## Topics covered
 - 
